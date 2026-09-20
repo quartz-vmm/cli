@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/github/license/quartz-vmm/cli?style=plastic&color=blue)
 ![Contributing](https://img.shields.io/badge/contributing-Closed-blue?style=plastic)
 
-CLI application for managing macOS VMs.
+CLI app for managing VMs running macOS as a guest.
 
 ## 🚀 Features
 
