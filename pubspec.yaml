@@ -1,0 +1,20 @@
+name: quartz_cli
+description: CLI application for managing macOS VMs.
+
+publish_to: none
+homepage: https://softyes.com.br
+repository: https://github.com/quartz-vmm/cli
+issue_tracker: https://github.com/quartz-vmm/cli/issues
+
+version: 0.1.0
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  args: ^2.7.0
+
+dev_dependencies:
+  test: ^1.25.6
+  lints: ^6.0.0
+  very_good_analysis: ^11.0.0
