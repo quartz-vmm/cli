@@ -4,5 +4,6 @@
     "linux",
     "pubspec",
     "softyesti"
-  ]
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.47.5"
 }
